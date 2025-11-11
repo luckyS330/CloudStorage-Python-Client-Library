@@ -64,3 +64,5 @@ py*test-*/*
 
 # pytest cache
 .pytest_cache/*
+config.bat
+node_modules
